@@ -22,7 +22,6 @@ React.useEffect(() => {
     return [new Date(item.dt).toLocaleTimeString(), scaleType === 'celsius'?`${toCelsius(item.main.temp)}C`: `${Math.round(item.main.temp)}F`]
   });
   setData(result)
-  console.log(result);
 }, [currentWeather.date, scaleType])
     return (
       <Paper className={classes.paper}>
