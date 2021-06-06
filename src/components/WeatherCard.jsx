@@ -41,7 +41,6 @@ let month = new Intl.DateTimeFormat('en', { month: 'short' }).format(date);
 let day = new Intl.DateTimeFormat('en', { day: '2-digit' }).format(date);
 return `${day} ${month} ${year.slice(2)}`
 }
-console.log("currentWeather.data === weather.date ++",currentWeather.date, weather.date)
   return (
     <Card className={classes.root} onClick={() => handleSetCurrentWeather(weather)} style={currentWeather.date === weather.date? {border: '2px solid black'}: {}} >
       <CardContent>

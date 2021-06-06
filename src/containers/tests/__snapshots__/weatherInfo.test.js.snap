@@ -1,0 +1,49 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Weather information Weather information 1`] = `
+<Provider
+  store={
+    Object {
+      "@@observable": [Function],
+      "dispatch": [Function],
+      "getState": [Function],
+      "replaceReducer": [Function],
+      "subscribe": [Function],
+    }
+  }
+>
+  <WeatherInfo>
+    <LoadingScreen>
+      <div
+        className="makeStyles-container-7"
+      >
+        loading....
+      </div>
+    </LoadingScreen>
+  </WeatherInfo>
+</Provider>
+`;
+
+exports[`Weather information Weather information screen to match snapshot 1`] = `
+<Provider
+  store={
+    Object {
+      "@@observable": [Function],
+      "dispatch": [Function],
+      "getState": [Function],
+      "replaceReducer": [Function],
+      "subscribe": [Function],
+    }
+  }
+>
+  <WeatherInfo>
+    <LoadingScreen>
+      <div
+        className="makeStyles-container-7"
+      >
+        loading....
+      </div>
+    </LoadingScreen>
+  </WeatherInfo>
+</Provider>
+`;
