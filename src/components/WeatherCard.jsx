@@ -9,22 +9,10 @@ const useStyles = makeStyles({
   root: {
     width: '30%'
   },
-  bullet: {
-    display: 'inline-block',
-    margin: '0 2px',
-    transform: 'scale(0.8)',
-  },
-  title: {
-    fontSize: 14,
-  },
-  pos: {
-    marginBottom: 12,
-  },
 });
 
 export default function WearherCard({weather, scaleType, handleSetCurrentWeather, currentWeather}) {
   const classes = useStyles();
-  const bull = <span className={classes.bullet}>•</span>;
 
 const getAverageTemperature = (weatherSegments) => {
     let total = 0;
