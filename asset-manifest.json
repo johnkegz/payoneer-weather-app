@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/payoneer-weather-app/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/payoneer-weather-app/static/js/main.294c3401.chunk.js",
-    "main.js.map": "/payoneer-weather-app/static/js/main.294c3401.chunk.js.map",
+    "main.js": "/payoneer-weather-app/static/js/main.3b8b3585.chunk.js",
+    "main.js.map": "/payoneer-weather-app/static/js/main.3b8b3585.chunk.js.map",
     "runtime-main.js": "/payoneer-weather-app/static/js/runtime-main.a17c0158.js",
     "runtime-main.js.map": "/payoneer-weather-app/static/js/runtime-main.a17c0158.js.map",
-    "static/js/2.4c7a426c.chunk.js": "/payoneer-weather-app/static/js/2.4c7a426c.chunk.js",
-    "static/js/2.4c7a426c.chunk.js.map": "/payoneer-weather-app/static/js/2.4c7a426c.chunk.js.map",
+    "static/js/2.933f5cdf.chunk.js": "/payoneer-weather-app/static/js/2.933f5cdf.chunk.js",
+    "static/js/2.933f5cdf.chunk.js.map": "/payoneer-weather-app/static/js/2.933f5cdf.chunk.js.map",
     "static/js/3.f3925121.chunk.js": "/payoneer-weather-app/static/js/3.f3925121.chunk.js",
     "static/js/3.f3925121.chunk.js.map": "/payoneer-weather-app/static/js/3.f3925121.chunk.js.map",
     "index.html": "/payoneer-weather-app/index.html",
     "static/css/main.8c8b27cf.chunk.css.map": "/payoneer-weather-app/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.4c7a426c.chunk.js.LICENSE.txt": "/payoneer-weather-app/static/js/2.4c7a426c.chunk.js.LICENSE.txt"
+    "static/js/2.933f5cdf.chunk.js.LICENSE.txt": "/payoneer-weather-app/static/js/2.933f5cdf.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a17c0158.js",
-    "static/js/2.4c7a426c.chunk.js",
+    "static/js/2.933f5cdf.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.294c3401.chunk.js"
+    "static/js/main.3b8b3585.chunk.js"
   ]
 }
